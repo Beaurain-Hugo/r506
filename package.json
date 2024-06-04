@@ -1,0 +1,15 @@
+{
+  "name": "exercice_final_r506",
+  "version": "1.0.0",
+  "description": "Base de données d'un site de recettes de cuisine",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Hugo Beaurain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
